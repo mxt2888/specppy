@@ -1,4 +1,4 @@
-# ALL ISSUES A ACCEPTED
+# ALL ISSUES ARE ACCEPTED
 
 # specppy
 A C++ aida64 tryna be
